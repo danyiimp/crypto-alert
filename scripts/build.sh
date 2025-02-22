@@ -1,0 +1,1 @@
+sudo docker build -t crypto-alert:latest .

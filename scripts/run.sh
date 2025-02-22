@@ -1,0 +1,1 @@
+sudo docker run -d --restart=unless-stopped --env-file .env -v $(pwd)/data:/app/data -v $(pwd)/logs:/app/logs crypto-alert
