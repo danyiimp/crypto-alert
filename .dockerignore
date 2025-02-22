@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+test*.py
+logs/
+test.txt
+*.db
+README.md
